@@ -1,0 +1,4 @@
+all:mgole1_raole1_phone_directory.out
+
+mgole1_raole1_phone_directory.out:mgole1_raole1_phone_directory.c
+	gcc mgole1_raole1_phone_directory.c -o mgole1_raole1_phone_directory.out
